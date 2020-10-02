@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/maria-valentini-057756139/',
+        linkedin: 'maria-valentini-057756139',
         twitter: '',
         github: '',
     },
