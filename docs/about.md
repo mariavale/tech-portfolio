@@ -3,27 +3,36 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+My name is Maria Valentini, and I am a junior at the College of St. Scholastica 
+double majoring in Computer Information Systems and Mathematics.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+- Cofounder and vice president of the CSS Coding Club
+- Software Development/Data Science Intern at FORKaiA (04/20 - 09/20)
+- Undergraduate Research Assistant at the College of St. Scholastica (01/19 - Present)
+- Teaching Assistant for CIS 3107 at the College of St. Scholastica (06/20 - Present)
+- Eager to learn more about machine learning and data science to advance my professional
+and personal capabilities
 
-Write it in first (I) or third (Your Name Here) person.
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+For information, check out my [resume]https://drive.google.com/file/d/1faz4vYET6Y2Hs93IBaGbXviZEJbe5UWn/view?usp=sharing!
+
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+- Undergraduate Research Assistant at the College of St. Scholastica
+- Teaching Assistant for CIS 3107 at the College of St. Scholastica
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- National Merit Scholar
+- AAUW STEM Scholar
+- All-State Gold Academic Award Recipient
+- Clare Boothe Luce Research Scholar
+- Dean’s List Honoree
+- ITA Scholar Athlete
+- Academic All-Conference Award Recipient
+- Grace Hopper Celebration Scholar
+
 
 ## Social Media
 
