@@ -9,4 +9,8 @@ A [link](https://drive.google.com/file/d/1Po2eSKMclfe4RKVSDbePbIKquasBlOKr/view?
 
 Poster (Presented at 2019 STARS Computing Corps Conference):
 
-![Add alternate text for image](./assets/Poster.png)
+![Data Analytics Presentation](./assets/Poster.png)
+
+2020 ProCO2 Project for FORKaiA Internship
+
+![A screenshot from the application](./assets/reductionsScreenshot.png)
