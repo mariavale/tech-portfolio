@@ -22,8 +22,8 @@ class Footer extends React.Component {
           <a href={"https://www.linkedin.com/in/" + this.props.config.socialMedia.linkedin} target="_blank" className="social">
             <img alt="LinkedIn" src={this.props.config.baseUrl + "img/linkedin.svg"}></img>
           </a>
-          <a href={"https://twitter.com/" + this.props.config.socialMedia.twitter} target="_blank" className="social">
-            <img alt="Twitter" src={this.props.config.baseUrl + "img/hackerRank.png"}></img>
+          <a href={"https://www.hackerrank.com/" + this.props.config.socialMedia.twitter} target="_blank" className="social">
+            <img alt="HackerRank" src={this.props.config.baseUrl + "img/hackerRank.png"}></img>
           </a>
           <a href={"https://github.com/" + this.props.config.socialMedia.github} target="_blank" className="social">
             <img alt="GitHub" src={this.props.config.baseUrl + "img/github.svg"}></img>
