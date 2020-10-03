@@ -38,3 +38,4 @@ For information, check out my [resume](https://drive.google.com/file/d/1faz4vYET
 
 - LinkedIn: maria-valentini-057756139
 - GitHub: mariavale
+- HackerRank: mariarvalentini5
