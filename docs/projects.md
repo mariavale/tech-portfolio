@@ -15,4 +15,5 @@ Poster (Presented at 2019 STARS Computing Corps Conference):
 
 An application I developed for calculating and assigning scores to carbon footprints
 
-![A screenshot from the application](./assets/homepageScreenshot.png)  ![A screenshot from the application](./assets/quizScreenshot.png)  ![A screenshot from the application](./assets/profileScreenshot.png)  ![A screenshot from the application](./assets/reductionsScreenshot.png)
+![A screenshot from the application](./assets/homepageScreenshot.png) ![A screenshot from the application](./assets/quizScreenshot.png)
+![A screenshot from the application](./assets/profileScreenshot.png) ![A screenshot from the application](./assets/reductionsScreenshot.png)
