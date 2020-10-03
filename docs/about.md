@@ -14,7 +14,7 @@ double majoring in Computer Information Systems and Mathematics.
 and personal capabilities
 
 
-For information, check out my [resume]https://drive.google.com/file/d/1faz4vYET6Y2Hs93IBaGbXviZEJbe5UWn/view?usp=sharing!
+For information, check out my [resume](https://drive.google.com/file/d/1faz4vYET6Y2Hs93IBaGbXviZEJbe5UWn/view?usp=sharing)!
 
 
 ## Current Role
@@ -36,6 +36,5 @@ For information, check out my [resume]https://drive.google.com/file/d/1faz4vYET6
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- LinkedIn: maria-valentini-057756139
+- GitHub: mariavale
