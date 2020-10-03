@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'maria-valentini-057756139',
-        twitter: '',
+        twitter: 'mariarvalentini5',
         github: 'mariavale',
     },
 
