@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Maria Valentini Blog</title>
+        <link>https://mariavale.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Maria Valentini news and events.</description>
+        <lastBuildDate>Fri, 02 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Maria Valentini Blog</title>
+            <url>https://mariavale.github.io/tech-portfolio/undefined</url>
+            <link>https://mariavale.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2020 Maria Valentini</copyright>
+        <item>
+            <title><![CDATA[vGHC 2020]]></title>
+            <link>https://mariavale.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</link>
+            <guid>https://mariavale.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Through my scholarship sponsored by 3M, I was able to attend the virtual Grace Hopper Celebration 2020!</p> ]]></description>
+        </item>
+    </channel>
+</rss>
